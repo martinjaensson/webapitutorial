@@ -9,3 +9,14 @@ C:\Users\martinWindows\source\repos\Web.Api\Web.Api\obj\Debug\netcoreapp2.0\Web.
 C:\Users\martinWindows\source\repos\Web.Api\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.AssemblyInfo.cs
 C:\Users\martinWindows\source\repos\Web.Api\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.dll
 C:\Users\martinWindows\source\repos\Web.Api\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.pdb
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.csprojResolveAssemblyReference.cache
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.AssemblyInfoInputs.cache
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.AssemblyInfo.cs
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.dll
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\obj\Debug\netcoreapp2.0\Web.Api.pdb
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\bin\Debug\netcoreapp2.0\Web.Api.deps.json
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\bin\Debug\netcoreapp2.0\Web.Api.runtimeconfig.json
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\bin\Debug\netcoreapp2.0\Web.Api.runtimeconfig.dev.json
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\bin\Debug\netcoreapp2.0\Web.Api.dll
+C:\Users\martin.jaensson\Documents\Pluralsight\wepapitutorial\webapitutorial\webapitutorial\Web.Api\bin\Debug\netcoreapp2.0\Web.Api.pdb
