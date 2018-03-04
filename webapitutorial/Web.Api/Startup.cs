@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json.Serialization;
 using NLog.Extensions.Logging;
+using Web.Api.Entities;
 using Web.Api.Services;
 
 namespace Web.Api
@@ -38,6 +40,9 @@ namespace Web.Api
             //            castedResolver.NamingStrategy = null;
             //        }; 
             //   });
+            string connectionString = @"Server=(localdb)\MSSQLLocalDB;Database=CityInfoDB;Trusted_Connection=True;";
+            services.AddDbContext<CityInfoContext>(o => o.UseSqlServer(connectionString));
+
 #if DEBUG
             services.AddTransient<IMailService, LocalMailService>();
 #else

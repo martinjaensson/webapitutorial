@@ -24,6 +24,7 @@
       "Web.Api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0",
           "NLog.Web.AspNetCore": "4.5.0-rc2"
         },
