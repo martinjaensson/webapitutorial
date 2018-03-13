@@ -12635,6 +12635,7 @@
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.1",
+      "Microsoft.EntityFrameworkCore.Tools >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
       "NLog.Web.AspNetCore >= 4.5.0-rc2"
     ]
@@ -12688,6 +12689,10 @@
             "version": "[2.0.5, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "[2.0.1, )"
           },

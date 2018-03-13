@@ -21,7 +21,6 @@ namespace Web.Api
                     Id = 1,
                     Name = "Linköping",
                     Description = "My hometown",
-                    NumberOfPointsOfInterest = 2,
                     PointsOfInterest = new List<PointOfInterestDto>()
                     {
                         new PointOfInterestDto()
@@ -43,7 +42,6 @@ namespace Web.Api
                     Id = 2,
                     Name = "Stockholm",
                     Description = "Capital of Sweden",
-                    NumberOfPointsOfInterest = 2,
                     PointsOfInterest = new List<PointOfInterestDto>()
                     {
                         new PointOfInterestDto()
