@@ -48,7 +48,7 @@ namespace Web.Api.Services
             return _context.PointOfInterests.Where(p => p.CityId == cityId && p.Id == pointOfInterestId).FirstOrDefault();
         }
 
-        public IEnumerable<City> GetPointsOfInterestForCity(int cityId)
+        public IEnumerable<PointOfInterest> GetPointsOfInterestForCity(int cityId)
         {
             return _context.PointOfInterests.Where(p => p.CityId == cityId).ToList();
         }

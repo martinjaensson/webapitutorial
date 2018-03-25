@@ -12641,7 +12641,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\martinWindows\\.nuget\\packages\\": {},
+    "C:\\Users\\martin.jaensson\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12650,17 +12650,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\martinWindows\\Documents\\Pluralsight\\WebApiTutorial\\webapitutorial\\Web.Api\\Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\martin.jaensson\\Documents\\Pluralsight\\wepapitutorial\\webapitutorial\\webapitutorial\\Web.Api\\Web.Api.csproj",
       "projectName": "Web.Api",
-      "projectPath": "C:\\Users\\martinWindows\\Documents\\Pluralsight\\WebApiTutorial\\webapitutorial\\Web.Api\\Web.Api.csproj",
-      "packagesPath": "C:\\Users\\martinWindows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martinWindows\\Documents\\Pluralsight\\WebApiTutorial\\webapitutorial\\Web.Api\\obj\\",
+      "projectPath": "C:\\Users\\martin.jaensson\\Documents\\Pluralsight\\wepapitutorial\\webapitutorial\\webapitutorial\\Web.Api\\Web.Api.csproj",
+      "packagesPath": "C:\\Users\\martin.jaensson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\martin.jaensson\\Documents\\Pluralsight\\wepapitutorial\\webapitutorial\\webapitutorial\\Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\martinWindows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\martin.jaensson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
